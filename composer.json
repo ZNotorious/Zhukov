@@ -1,0 +1,16 @@
+{
+    "name": "znotorious/zhukov",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew Zhukov",
+            "email": "andrew.zhukov14@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "zhukov\\": ""
+        }
+    }
+}
